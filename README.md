@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="1000" src="https://i.gifer.com/xK.gif">
 <h1 align="center">Hi 👋, I'm Ehtisham Younas</h1>
 <h3 align="center">A dedicated Data Science student from COMSATS University Islamabad, passionate about Generative AI, Agentic AI, and software development.</h3>
 
