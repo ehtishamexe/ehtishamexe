@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamexe&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamexe" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Hugging Face, LangChain, Scikit-learn, Keras, and LlamaIndex for Generative AI, Deep Learning, Machine Learning, and Agentic AI.**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Hugging Face, LangChain, Scikit-learn, Keras, and LlamaIndex for Generative AI, Deep Learning, Machine Learning, Agentic AI and many more.**
 
 - 💬 Ask me about **python**
 
